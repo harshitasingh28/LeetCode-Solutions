@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
