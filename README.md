@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
