@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
