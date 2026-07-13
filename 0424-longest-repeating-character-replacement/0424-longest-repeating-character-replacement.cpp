@@ -17,9 +17,7 @@ public:
             if(change > k){
                hash[s[l]-'A']--;
                maxFreq = 0;
-               for(int i = 0;i<26;i++){
-                maxFreq = max(maxFreq, hash[i]);
-               }
+               
                l++;
            }
            if(change<= k){
