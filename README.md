@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -165,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
