@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1534-count-good-triplets](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -323,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
