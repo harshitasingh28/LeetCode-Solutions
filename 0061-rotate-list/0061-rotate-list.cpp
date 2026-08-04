@@ -10,27 +10,36 @@
  */
 class Solution {
 public:
+    ListNode* insertAtEnd(ListNode* head, int data){
+        ListNode* node = new ListNode(data);
+        if(head == NULL)return node;
+        ListNode* temp = head;
+        while(temp->next != NULL){
+            temp = temp->next;
+        }
+        temp->next = node;
+        return head;
+    }
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL)return head;
         if(head->next == NULL)return head;
         if(k == 0)return head;
 
-        int len = 1;
-        ListNode* tail = head;
-        while(tail->next != NULL){
-            tail = tail->next;
-            len++;
+        vector<int> arr;
+        ListNode* temp = head;
+        while(temp != NULL){
+            arr.push_back(temp->val);
+            temp = temp->next;
         }
-        tail->next = head;
-        k = k % len;
-        int steps = len - k;
-        ListNode* newtail = head;
-        for(int i = 1;i<steps;i++){
-            newtail = newtail->next;
+        vector<int> t(arr.size(), 0);
+        for(int i = 0;i<arr.size();i++){
+            t[(i+k)%arr.size()] = arr[i];
         }
-        ListNode* newhead = newtail->next;
-        newtail->next = NULL;
-
-        return newhead;
+        arr = t;
+        ListNode* root = NULL;
+        for(int i = 0;i<arr.size();i++){
+            root = insertAtEnd(root, arr[i]);
+        }
+        return root;
     }
 };
