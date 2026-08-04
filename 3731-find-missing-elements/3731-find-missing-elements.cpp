@@ -1,15 +1,16 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        vector<int> ans;
+        int n = nums.size();
         sort(nums.begin(), nums.end());
-        int j = nums[0];
-        for(int i = 0;i<nums.size();i++){
-            while(nums[i] != j){
-                ans.push_back(j);
+        vector<int> ans;
+        int j = 0;
+        for(int i = nums[0];i<=nums[n-1];i++){
+            if(nums[j] != i){
+                ans.push_back(i);
+            }else{
                 j++;
             }
-            j++;
         }
         return ans;
     }
