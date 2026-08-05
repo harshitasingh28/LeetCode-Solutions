@@ -3,11 +3,17 @@ public:
     bool isAnagram(string s, string t) {
         int n = s.length();
         int m = t.length();
-        if(n != m) return false;
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
+        if(n != m)return false;
+        int count[26];
+        for(int i = 0;i<26;i++){
+            count[i] = 0;
+        }
         for(int i = 0;i<n;i++){
-            if(s[i] != t[i]){
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
+        }
+        for(int i = 0;i<26;i++){
+            if(count[i] != 0){
                 return false;
             }
         }
