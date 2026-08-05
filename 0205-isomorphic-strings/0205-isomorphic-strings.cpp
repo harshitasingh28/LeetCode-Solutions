@@ -7,34 +7,17 @@ public:
         int m = t.length();
         int i = 0;
         int j = 0;
-        while(i<n && j<m){
-            if(mp.find(s[i]) == mp.end()){
-                mp[s[i]] = t[j];
-                i++;
-                j++;
-            }else{
-                if(mp[s[i]] != t[j]){
-                    return false;
-                } 
-                i++;
-                j++;
+        for(int i = 0;i<n;i++){
+            if(mp.find(s[i]) != mp.end() && mp[s[i]] != t[i]){
+                return false;
             }
-        }
-        i = 0;
-        j = 0;
-        while(i<n && j<m){
-            if(mp1.find(t[i]) == mp1.end()){
-                mp1[t[i]] = s[j];
-                i++;
-                j++;
-            }else{
-                if(mp1[t[i]] != s[j]){
-                    return false;
-                } 
-                i++;
-                j++;
+            if(mp1.find(t[i]) != mp1.end() && mp1[t[i]] != s[i]){
+                return false;
             }
+            mp[s[i]] = t[i];
+            mp1[t[i]] = s[i];
         }
+        
         return true;
     }
 };
