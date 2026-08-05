@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
