@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0507-perfect-number) |
