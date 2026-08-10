@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -364,11 +367,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -377,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
