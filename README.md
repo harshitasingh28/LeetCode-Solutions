@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Trie
 |  |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
