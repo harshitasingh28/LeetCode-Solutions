@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
