@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1563-stone-game-v](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2029-stone-game-ix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Linked List
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -432,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
