@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -502,12 +503,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
