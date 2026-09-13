@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0835-image-overlap](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
