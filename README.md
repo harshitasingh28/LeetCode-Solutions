@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0507-perfect-number) |
@@ -534,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
