@@ -1,39 +1,31 @@
 class Solution {
 public:
-    bool hasValidPath(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int length = m + n - 1;
-
-        if (length % 2 != 0 || grid[0][0] != '(' ||
-            grid[m - 1][n - 1] != ')') {
-            return false;
+    bool solve(int i, int j, int curr, vector<vector<char>>& grid, vector<vector<vector<int>>>& dp){
+        if(grid[i][j] == '('){
+            curr++;
+        }else{
+            curr--;
         }
-
-        // -1: unknown, 0: false, 1: true
-        vector<vector<vector<int8_t>>> memo(
-            m, vector<vector<int8_t>>(
-                   n, vector<int8_t>(length + 1, -1)));
-
-        function<bool(int, int, int)> dfs = [&](int row, int col,
-                                                  int balance) -> bool {
-            balance += (grid[row][col] == '(' ? 1 : -1);
-            int remaining = (m - 1 - row) + (n - 1 - col);
-
-            if (balance < 0 || balance > remaining) return false;
-            if (row == m - 1 && col == n - 1) return balance == 0;
-
-            int8_t& cached = memo[row][col][balance];
-            if (cached != -1) return cached == 1;
-
-            bool possible =
-                (row + 1 < m && dfs(row + 1, col, balance)) ||
-                (col + 1 < n && dfs(row, col + 1, balance));
-
-            cached = possible ? 1 : 0;
-            return possible;
-        };
-
-        return dfs(0, 0, 0);
+        if(curr < 0)return false;
+        
+        if(i == grid.size()-1 && j == grid[0].size()-1){
+            return curr == 0;
+        }
+        if(dp[i][j][curr] != -1)return dp[i][j][curr];
+        bool result = false;
+        if(i<grid.size()-1){
+            result = solve(i+1, j, curr, grid, dp);
+        }
+       if(result) return dp[i][j][curr] = result;
+        if(j < grid[0].size()-1){
+            result = solve(i, j+1, curr, grid, dp);
+        }
+        return dp[i][j][curr] = result;
+    }
+    bool hasValidPath(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m, vector<int>(n+m+1, -1)));
+        return solve(0, 0, 0, grid, dp);
     }
 };
