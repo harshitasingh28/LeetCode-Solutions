@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
