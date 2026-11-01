@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
