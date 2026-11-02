@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
