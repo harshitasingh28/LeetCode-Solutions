@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshitasingh28/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
